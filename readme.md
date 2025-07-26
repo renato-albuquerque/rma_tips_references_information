@@ -16,8 +16,15 @@
 - Ir em: "Repositories >> New" (Criar novo repositório).
 - Escolher nome do repositório: exemplo_01
 - Clicar no botão: "Create repository"
+
+<br>
+
+- No VS Code, ir em "View >> Terminal" para abrir linha de comando.
+- Escrever comandos:
 - git add .
 - git commit -m "first commit"
 - git branch -M main
 - git remote add origin https://github.com/seu_perfil/exemplo_01.git
 - git push -u origin main  
+
+[Fim]
