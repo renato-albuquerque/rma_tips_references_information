@@ -24,6 +24,12 @@
 
 [Fim]
 
+### Observação:
+É recomendado executar os comandos abaixo ao configurar o Git pela primeira vez no computador. Esses comandos servem para configurar o nome de usuário e email, que ficarão registrados nos commits que serão feitos. <br>
+
+- git config --global user.name "my_name" (Exemplo). 
+- git config --global user.email "my_name@email.com" (Exemplo).
+
 ## 2. Git & Github, passos para criar repositório (Opção 2).
 
 [No computador]
@@ -53,9 +59,3 @@
 - git push -u origin main  
 
 [Fim]
-
-### Observação:
-É recomendado executar os comandos abaixo ao configurar o Git pela primeira vez no computador. Esses comandos servem para configurar o nome de usuário e email, que ficarão registrados nos commits que serão feitos. <br>
-
-- git config --global user.name "my_name" (Exemplo). 
-- git config --global user.email "my_name@email.com" (Exemplo).
