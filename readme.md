@@ -8,7 +8,10 @@
 - Escrever comando: git init (Foi inicializado um repositório git para controle de versão).
 - git config --global user.name "my_name" (Exemplo). 
 - git config --global user.email "my_name@email.com" (Exemplo).
-- Criar arquivo: README.md <br>
+- Criar arquivo: README.md 
+
+<br>
+<br>
 
 - Abrir perfil do github: github.com
 - Ir em: "Repositories >> New" (Criar novo repositório).
