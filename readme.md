@@ -5,6 +5,8 @@
 - [Fazer download do Git](https://git-scm.com/downloads)
 - [Criar perfil no Github](https://github.com/)
 
+<br>
+
 [No Github]
 - Abrir perfil do github: github.com
 - Ir em: "Repositories >> New" (Criar novo repositório).
@@ -37,6 +39,8 @@
 
 - [Fazer download do Git](https://git-scm.com/downloads)
 - [Criar perfil no Github](https://github.com/)
+
+<br>
 
 [No computador]
 - Criar nova pasta no computador.
