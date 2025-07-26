@@ -2,6 +2,9 @@
 
 ## 1. Git & Github, passos para criar repositório (Opção 1).
 
+- [Fazer download do Git](https://git-scm.com/downloads)
+- [Criar perfil no Github](https://github.com/)
+
 [No Github]
 - Abrir perfil do github: github.com
 - Ir em: "Repositories >> New" (Criar novo repositório).
@@ -31,6 +34,9 @@
 - git config --global user.email "my_name@email.com" (Exemplo).
 
 ## 2. Git & Github, passos para criar repositório (Opção 2).
+
+- [Fazer download do Git](https://git-scm.com/downloads)
+- [Criar perfil no Github](https://github.com/)
 
 [No computador]
 - Criar nova pasta no computador.
