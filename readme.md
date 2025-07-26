@@ -35,6 +35,8 @@
 - git config --global user.name "my_name" (Exemplo). 
 - git config --global user.email "my_name@email.com" (Exemplo).
 
+<br>
+
 ## 2. Git & Github, passos para criar repositório (Opção 2).
 
 - [Fazer download do Git](https://git-scm.com/downloads)
