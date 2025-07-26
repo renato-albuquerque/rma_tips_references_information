@@ -2,8 +2,8 @@
 
 ## 1. Git & Github, passos para criar repositório (Opção 1).
 
-- ![Fazer download do Git](https://git-scm.com/downloads)
-- ![Criar perfil no Github](https://github.com/)
+- [Fazer download do Git](https://git-scm.com/downloads)
+- [Criar perfil no Github](https://github.com/)
 
 <br>
 
@@ -39,8 +39,8 @@
 
 ## 2. Git & Github, passos para criar repositório (Opção 2).
 
-- ![Fazer download do Git](https://git-scm.com/downloads)
-- ![Criar perfil no Github](https://github.com/)
+- [Fazer download do Git](https://git-scm.com/downloads)
+- [Criar perfil no Github](https://github.com/)
 
 <br>
 
@@ -77,8 +77,6 @@
 ## 3. Datasets para "Hands On".
 Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data Engineering/Analytics/Science). HANDS ON! 
 
-By Raphael Amorim De Santana:
-https://lnkd.in/d2sX4PMu
+[By Raphael Amorim De Santana:](https://lnkd.in/d2sX4PMu)
+[By Fernando Augusto Garcia Martins](https://lnkd.in/dkZ4nZFU)
 
-By Fernando Augusto Garcia Martins
-https://lnkd.in/dkZ4nZFU
