@@ -11,7 +11,6 @@
 - Criar arquivo: README.md 
 
 <br>
-<br>
 
 - Abrir perfil do github: github.com
 - Ir em: "Repositories >> New" (Criar novo repositório).
