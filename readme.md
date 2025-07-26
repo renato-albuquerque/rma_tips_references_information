@@ -75,8 +75,7 @@
 <br>
 
 ## 3. Datasets para "Hands On".
-Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data Engineering/Analytics/Science). HANDS ON!
-Post Linkedin: https://www.linkedin.com/posts/renato-malbuquerque_data-handsabron-dataset-activity-7304215934972358658-_guw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASmTtwBGZ_oPJdVVzH2BmXOpsUhvTZfQPE 
+Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data Engineering/Analytics/Science). HANDS ON! [Post Linkedin](https://www.linkedin.com/posts/renato-malbuquerque_data-handsabron-dataset-activity-7304215934972358658-_guw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASmTtwBGZ_oPJdVVzH2BmXOpsUhvTZfQPE) 
 
 [By Raphael Amorim De Santana](https://lnkd.in/d2sX4PMu) <br>
 [By Fernando Augusto Garcia Martins](https://lnkd.in/dkZ4nZFU) <br>
