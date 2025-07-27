@@ -85,19 +85,21 @@ Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data 
 ## 4. Referências na área de Dados & Tecnologia.
 [Post Linkedin](https://www.linkedin.com/posts/renato-malbuquerque_agradecer-algumas-refer%C3%AAncias-na-%C3%A1rea-de-activity-7279550611241521152-8wQI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASmTtwBGZ_oPJdVVzH2BmXOpsUhvTZfQPE)
 
-[Gustavo Guanabara, Curso em Vídeo](https://www.cursoemvideo.com/curso/mysql/)
-[Luciano Vasconcelos, Jornada de Dados](https://www.youtube.com/@JornadaDeDados/streams)
-[Rafael Arruda, "Arruda Consulting"](https://www.youtube.com/@arrudaconsulting/streams)
-[Téo Calvo, "Teo Me Why"](https://cursos.teomewhy.org/)
-[Bruce Fonseca](https://www.youtube.com/@brucefonseca1986)
-[Leonardo Karpinski, Xperiun](https://xperiun.com/)
-[Karine Lago](https://www.youtube.com/@KarineLago)
-[Leticia Smirelli](https://www.youtube.com/@LeticiaSmirelli)
-[Luiz Santana, LS Treinamentos](https://sqlweekrecife.com.br/)
-[Rayza Wilma, Big Data Navigators](https://bigdatanavigators.com/)
-[Ronnan Lima](https://www.youtube.com/@ronnanlimadataeng)
-[Ítalo Mesquita](https://www.youtube.com/c/%C3%8DtaloMesquita)
-[Wallace Camargo](https://www.linkedin.com/in/wallace-camargo-35b615171/)
-[Raphael Amorim De Santana](https://www.youtube.com/@bifastsolutions)
-[Luiz Vitor França Lima](https://www.linkedin.com/in/luizvitorlima/)
+[Gustavo Guanabara, Curso em Vídeo](https://www.cursoemvideo.com/curso/mysql/) <br>
+[Luciano Vasconcelos, Jornada de Dados](https://www.youtube.com/@JornadaDeDados/streams) <br>
+[Rafael Arruda, "Arruda Consulting"](https://www.youtube.com/@arrudaconsulting/streams) <br>
+[Téo Calvo, "Teo Me Why"](https://cursos.teomewhy.org/) <br>
+[Bruce Fonseca](https://www.youtube.com/@brucefonseca1986) <br>
+[Leonardo Karpinski, Xperiun](https://xperiun.com/) <br>
+[Karine Lago](https://www.youtube.com/@KarineLago) <br>
+[Leticia Smirelli](https://www.youtube.com/@LeticiaSmirelli) <br>
+[Luiz Santana, LS Treinamentos](https://sqlweekrecife.com.br/) <br>
+[Rayza Wilma, Big Data Navigators](https://bigdatanavigators.com/) <br>
+[Ronnan Lima](https://www.youtube.com/@ronnanlimadataeng) <br>
+[Ítalo Mesquita](https://www.youtube.com/c/%C3%8DtaloMesquita) <br>
+[Wallace Camargo](https://www.linkedin.com/in/wallace-camargo-35b615171/) <br>
+[Raphael Amorim De Santana](https://www.youtube.com/@bifastsolutions) <br>
+[Luiz Vitor França Lima](https://www.linkedin.com/in/luizvitorlima/) <br>
 [Nayara Valevskii, Outliers.Lab | Digital College Brasil](https://www.linkedin.com/in/nayaraba/)
+
+<br>
