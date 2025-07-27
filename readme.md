@@ -1,5 +1,13 @@
 # Dicas, Referências & Informações pertinentes para as áreas de: Análise e Engenharia de Dados.
 
+## Sumário
+1. Git & Github, passos para criar repositório (Opção 1).
+2. Git & Github, passos para criar repositório (Opção 2).
+3. Datasets para "Hands On".
+4. Referências na área de Dados & Tecnologia.
+
+<br>
+
 ## 1. Git & Github, passos para criar repositório (Opção 1).
 
 - [Fazer download do Git](https://git-scm.com/downloads)
