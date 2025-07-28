@@ -111,3 +111,20 @@ Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data 
 [Nayara Valevskii, Outliers.Lab | Digital College Brasil](https://www.linkedin.com/in/nayaraba/)
 
 <br>
+
+## 5. Melhores práticas em Projetos Python.
+Dicas do profissional Luciano Vasconcelos Filho, Jornada de Dados, RedRex - Engenharia de Dados.
+Dicas no tempo 01:20:00 do vídeo: https://www.youtube.com/watch?v=xvCwZ73muV8&t=13s
+[Post Linkedin](https://www.linkedin.com/posts/renato-malbuquerque_github-renato-albuquerquetriggoaichallenge-activity-7331852518022369280-1etd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASmTtwBGZ_oPJdVVzH2BmXOpsUhvTZfQPE)
+
+✅ Criação de ambiente virtual (.venv)
+Um ambiente virtual em Python (.venv) isola as dependências de um projeto, evitando conflitos com outros projetos no mesmo sistema.
+
+✅ Instalação das bibliotecas python "os" e "dotenv" para armazenar dados sensíveis, ex.: senhas (Dentro de arquivo .env).
+A biblioteca python-dotenv permite carregar variáveis de ambiente de um arquivo .env, útil para armazenar dados sensíveis como senhas e tokens.
+
+✅ Criação do arquivo .gitignore (Pasta .venv e arquivo .env dentro do arquivo .gitignore)
+O arquivo .gitignore define quais arquivos ou pastas o Git deve ignorar (não versionar).
+
+✅ Criação arquivo requirements.txt (pip freeze >> requirements.txt)
+O arquivo requirements.txt lista todas as bibliotecas instaladas no ambiente, permitindo replicar o projeto em outro lugar.
