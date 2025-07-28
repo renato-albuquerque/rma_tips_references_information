@@ -114,7 +114,7 @@ Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data 
 
 ## 5. Melhores práticas em Projetos Python.
 Dicas do profissional Luciano Vasconcelos Filho, Jornada de Dados, RedRex - Engenharia de Dados. <br>
-[Dicas no tempo 01:20:00 da live no youtube.](https://www.youtube.com/watch?v=xvCwZ73muV8&t=13s) <br>
+[Dicas no tempo 01:20:00 da live no youtube](https://www.youtube.com/watch?v=xvCwZ73muV8&t=13s) <br>
 [Post Linkedin](https://www.linkedin.com/posts/renato-malbuquerque_github-renato-albuquerquetriggoaichallenge-activity-7331852518022369280-1etd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASmTtwBGZ_oPJdVVzH2BmXOpsUhvTZfQPE)
 
 ✅ Criação de ambiente virtual (.venv)
