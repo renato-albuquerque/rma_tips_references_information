@@ -130,6 +130,6 @@ O arquivo .gitignore define quais arquivos ou pastas o Git deve ignorar (não ve
 ✅ Criação arquivo requirements.txt (pip freeze >> requirements.txt)
 O arquivo requirements.txt lista todas as bibliotecas instaladas no ambiente, permitindo replicar o projeto em outro lugar.
 
-Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .gitignore // Arquivo requirements.txt
+Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .env  // Arquivo .gitignore // Arquivo requirements.txt
 
 ![screenshot](files/folders.png)
