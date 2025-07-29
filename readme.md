@@ -135,3 +135,24 @@ O arquivo requirements.txt lista todas as bibliotecas instaladas no ambiente, pe
 Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .env  // Arquivo .gitignore // Arquivo requirements.txt
 
 ![screenshot](/files/folders.png)
+
+## 6. Etapas de um Projeto de BI.
+[Live Rafael Arruda, explicação no tempo 08min:40s](https://www.youtube.com/watch?v=s44ogfuSBbw&t=694s)
+
+- Levantamento de requisitos.
+Entendimento das necessidades do negócio junto aos usuários (stakeholders). Define quais perguntas precisam ser respondidas com os dados, quais indicadores (KPIs) são relevantes, e quais fontes de dados serão usadas. <br>
+
+- Criação do modelo de dados.
+Desenho de como os dados serão organizados e relacionados. Pode incluir modelagem dimensional (fato e dimensões) ou relacional, para garantir que os dados sejam acessíveis, consistentes e eficientes para análise. <br>
+
+- Implementação do Data Warehouse.
+Construção do ambiente onde os dados tratados serão armazenados de forma estruturada. Isso envolve integração dos dados, limpeza, transformação (ETL/ELT) e carga no Data Warehouse. <br>
+
+- Validação dos dados.
+Verificação da qualidade e integridade dos dados carregados. Compara dados do sistema de origem com os dados no BI, garantindo que não haja perdas, duplicações ou distorções. <br>
+
+- Documentação do ETL.
+Registro das regras de negócio, transformações aplicadas e fluxos de dados utilizados no processo ETL. Facilita a manutenção, auditoria e entendimento futuro do processo. <br>
+
+- Criação do Dashboard.
+Desenvolvimento das visualizações (gráficos, tabelas, KPIs) para apresentar os dados de forma clara e interativa. Ferramentas como Power BI, Tableau ou Looker são comuns nessa etapa. <br>
