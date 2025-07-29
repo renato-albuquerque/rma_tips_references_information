@@ -5,6 +5,7 @@
 2. Git & Github, passos para criar repositório (Opção 2).
 3. Datasets para "Hands On".
 4. Referências na área de Dados & Tecnologia.
+5. Melhores práticas em Projetos Python.
 
 <br>
 
