@@ -134,4 +134,4 @@ O arquivo requirements.txt lista todas as bibliotecas instaladas no ambiente, pe
 
 Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .env  // Arquivo .gitignore // Arquivo requirements.txt
 
-![screenshot](/files/folders.jpeg)
+![screenshot](/files/folders.png)
