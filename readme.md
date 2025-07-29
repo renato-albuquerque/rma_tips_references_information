@@ -124,7 +124,7 @@ Um ambiente virtual em Python (.venv) isola as dependências de um projeto, evit
 
 ✅ Instalação das bibliotecas python "os" e "dotenv" para armazenar dados sensíveis, ex.: senhas (Dentro de arquivo .env).
 A biblioteca python-dotenv permite carregar variáveis de ambiente de um arquivo .env, útil para armazenar dados sensíveis como senhas e tokens. <br>
-![screenshot](files/dotenv.png)
+![screenshot](/files/dotenv.png)
 
 ✅ Criação do arquivo .gitignore (Pasta .venv e arquivo .env dentro do arquivo .gitignore)
 O arquivo .gitignore define quais arquivos ou pastas o Git deve ignorar (não versionar).
@@ -134,4 +134,4 @@ O arquivo requirements.txt lista todas as bibliotecas instaladas no ambiente, pe
 
 Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .env  // Arquivo .gitignore // Arquivo requirements.txt
 
-![screenshot](files/folders.png)
+![screenshot](/files/folders.png)
