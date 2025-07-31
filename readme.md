@@ -121,7 +121,22 @@ Dicas do profissional Luciano Vasconcelos Filho, Jornada de Dados, RedRex - Enge
 [Projeto com uso destas melhores práticas](https://github.com/renato-albuquerque/triggo_ai_challenge)
 
 ✅ Criação de ambiente virtual (.venv)
-Um ambiente virtual em Python (.venv) isola as dependências de um projeto, evitando conflitos com outros projetos no mesmo sistema.
+Um ambiente virtual em Python (.venv) isola as dependências de um projeto, evitando conflitos com outros projetos no mesmo sistema. <br>
+
+Dentro da pasta do projeto, digitar o comando:
+```bash
+python -m venv .venv
+```
+
+Ativar o ambiente virtual:
+```bash
+source .venv/Scripts/activate
+```
+
+Desativar o ambiente virtual:
+```bash
+deactivate
+```
 
 ✅ Instalação das bibliotecas python "os" e "dotenv" para armazenar dados sensíveis, ex.: senhas (Dentro de arquivo .env).
 A biblioteca python-dotenv permite carregar variáveis de ambiente de um arquivo .env, útil para armazenar dados sensíveis como senhas e tokens. <br>
