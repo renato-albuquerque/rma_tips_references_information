@@ -128,7 +128,7 @@ Dentro da pasta do projeto, digitar o comando:
 python -m venv .venv
 ```
 
-Ativar o ambiente virtual:
+Ativar o ambiente virtual (git bash):
 ```bash
 source .venv/Scripts/activate
 ```
