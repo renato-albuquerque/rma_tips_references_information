@@ -179,6 +179,6 @@ Tutorial de como configurar um ambiente de desenvolvimento Python com foco no me
 Passo a passo para você criar os seus projetos do Zero de forma profissional. <br>
 **Referência: Luciano Vasconcelos, Jornada de Dados.** <br>
 
-[Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM)
+[Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM) <br>
 [Vídeo 02, setup Pyenv, PIP, VENV, PIPX e Poetry](https://www.youtube.com/watch?v=9LYqtLuD7z4)
 
