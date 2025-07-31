@@ -7,6 +7,7 @@
 4. Referências na área de Dados & Tecnologia.
 5. Melhores práticas em Projetos Python.
 6. Etapas de um Projeto de BI.
+7. Configuração ambiente de desenvolvimento Python.
 
 <br>
 
@@ -172,3 +173,12 @@ Registro das regras de negócio, transformações aplicadas e fluxos de dados ut
 
 6) Criação do Dashboard. <br>
 Desenvolvimento das visualizações (gráficos, tabelas, KPIs) para apresentar os dados de forma clara e interativa. Ferramentas como Power BI, Tableau ou Looker são comuns nessa etapa. <br>
+
+## 7. Configuração ambiente de desenvolvimento Python.
+Tutorial de como configurar um ambiente de desenvolvimento Python com foco no mercado de trabalho. <br>
+Passo a passo para você criar os seus projetos do Zero de forma profissional. <br>
+**Referência: Luciano Vasconcelos, Jornada de Dados.** <br>
+
+[Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM)
+[Vídeo 02, setup Pyenv, PIP, VENV, PIPX e Poetry](https://www.youtube.com/watch?v=9LYqtLuD7z4)
+
