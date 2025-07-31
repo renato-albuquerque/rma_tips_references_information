@@ -176,7 +176,7 @@ Desenvolvimento das visualizações (gráficos, tabelas, KPIs) para apresentar o
 
 ## 7. Configuração ambiente de desenvolvimento Python.
 Tutorial de como configurar um ambiente de desenvolvimento Python com foco no mercado de trabalho. <br>
-Passo a passo para você criar os seus projetos do Zero de forma profissional. <br>
+Passo a passo para criar projetos do Zero de forma profissional. <br>
 **Referência: Luciano Vasconcelos, Jornada de Dados.** <br>
 
 [Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM) <br>
