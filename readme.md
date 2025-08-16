@@ -195,4 +195,5 @@ Ele oferece: <br>
 - Texto formatado (com Markdown); <br>
 - Gráficos; <br>
 - Visualizações interativas. <br>
+<br>
 É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar.
