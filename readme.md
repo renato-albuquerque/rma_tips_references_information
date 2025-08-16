@@ -8,6 +8,7 @@
 5. Melhores práticas em Projetos Python.
 6. Etapas de um Projeto de BI.
 7. Configuração ambiente de desenvolvimento Python.
+8. Jupyter Notebook, extensão VS Code
 
 <br>
 
@@ -182,3 +183,18 @@ Passo a passo para criar projetos do Zero de forma profissional. <br>
 [Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM) <br>
 [Vídeo 02, setup Pyenv, PIP, VENV, PIPX e Poetry](https://www.youtube.com/watch?v=9LYqtLuD7z4)
 
+## 8. Jupyter Notebook, extensão VS Code
+Como utilizar o Jupyter Notebook no VS Code: <br>
+Nas extensões do VS Code, pesquisar e instalar: Jupyter (Microsoft). <br>
+Exemplo de arquivos jupyter notebook: main.ipynb <br>
+
+**Sobre:** <br>
+O Jupyter Notebook no VS Code permite criar, editar e executar notebooks .ipynb diretamente no editor, com todos os recursos do Jupyter integrados ao ambiente do VS Code. <br>
+Ele oferece: <br>
+- Código executável (em várias linguagens, principalmente Python); <br>
+- Texto formatado (com Markdown); <br>
+- Gráficos; <br>
+- Visualizações interativas. <br>
+É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar.
+
+Atualização de teste - 15/08/2025
