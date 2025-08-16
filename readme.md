@@ -8,7 +8,8 @@
 5. Melhores práticas em Projetos Python.
 6. Etapas de um Projeto de BI.
 7. Configuração ambiente de desenvolvimento Python.
-8. Jupyter Notebook, extensão VS Code
+8. Jupyter Notebook, extensão VS Code.
+9. Autosave no VS Code.
 
 <br>
 
@@ -196,4 +197,7 @@ Ele oferece: <br>
 - Gráficos; <br>
 - Visualizações interativas. <br>
 <br>
-É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar.
+É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar. <br>
+
+## 9. Autosave no VS Code.
+in progress...
