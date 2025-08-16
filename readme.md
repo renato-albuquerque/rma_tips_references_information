@@ -196,5 +196,3 @@ Ele oferece: <br>
 - Gráficos; <br>
 - Visualizações interativas. <br>
 É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar.
-
-Atualização de teste - 15/08/2025
