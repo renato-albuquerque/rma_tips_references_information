@@ -200,4 +200,14 @@ Ele oferece: <br>
 É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar. <br>
 
 ## 9. Autosave no VS Code.
-in progress...
+o Auto Save é um recurso que salva automaticamente as alterações feitas nos arquivos, sem precisar usar Ctrl+S. <br>
+
+Passos: <br>
+
+1.  Clicar no ícone da engrenagem (Manage). 
+2.  Clicar em settings.
+![Image about autosave, steps 1 and 2](files/autosave1.PNG)
+
+3. Digitar no campo de pesquisa: **autosave**
+4. Escolher na lista pela modo de funcionamento: **afterDelay** *(salva após um tempo de inatividade (padrão: 1000 ms)).*
+![Image about autosave, steps 3 and 4](files/autosave2.PNG)
