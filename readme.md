@@ -113,11 +113,14 @@ Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data 
 [Wallace Camargo](https://www.linkedin.com/in/wallace-camargo-35b615171/) <br>
 [Raphael Amorim De Santana](https://www.youtube.com/@bifastsolutions) <br>
 [Luiz Vitor França Lima](https://www.linkedin.com/in/luizvitorlima/) <br>
+[Shalom Andre](https://www.linkedin.com/in/shalomandre/) <br>
 [Nayara Valevskii, Outliers.Lab | Digital College Brasil](https://www.linkedin.com/in/nayaraba/)
 <br>
 [Alex Souza | Digital College Brasil](https://www.linkedin.com/in/alex-souza/?locale=en_US) 
 <br>
 [João Oliveira, Evolve Data](https://www.linkedin.com/in/joaomdeoliveira/) 
+<br>
+[Hashtag Treinamentos](https://www.youtube.com/@HashtagTreinamentos) 
 <br>
 
 ## 5. Melhores práticas em Projetos Python.
