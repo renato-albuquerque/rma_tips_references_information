@@ -136,6 +136,11 @@ Ativar o ambiente virtual (git bash):
 source .venv/Scripts/activate
 ```
 
+Ativar o ambiente virtual (cmd):
+```cmd
+.venv\Scripts\activate
+```
+
 Desativar o ambiente virtual:
 ```bash
 deactivate
