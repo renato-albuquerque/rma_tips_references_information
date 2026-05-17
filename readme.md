@@ -116,6 +116,8 @@ Indicação de DATASETS para colocar a mão na massa em projetos de DADOS (Data 
 [Shalom Andre](https://www.linkedin.com/in/shalomandre/) <br>
 [Nayara Valevskii, Outliers.Lab | Digital College Brasil](https://www.linkedin.com/in/nayaraba/)
 <br>
+[Daniel Teófilo | Digital College Brasil](https://www.linkedin.com/in/danielteofilo/?locale=en) 
+<br>
 [Alex Souza | Digital College Brasil](https://www.linkedin.com/in/alex-souza/?locale=en_US) 
 <br>
 [João Oliveira, Evolve Data](https://www.linkedin.com/in/joaomdeoliveira/) 
