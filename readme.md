@@ -6,10 +6,11 @@
 3. Datasets para "Hands On".
 4. Referências na área de Dados & Tecnologia.
 5. Melhores práticas em Projetos Python.
-6. Etapas de um Projeto de BI.
-7. Configuração ambiente de desenvolvimento Python.
-8. Jupyter Notebook, extensão VS Code.
-9. Autosave no VS Code.
+6. Gerenciador de pacotes Python: "uv".
+7. Etapas de um Projeto de BI.
+8. Configuração ambiente de desenvolvimento Python.
+9. Jupyter Notebook, extensão VS Code.
+10. Autosave no VS Code.
 
 <br>
 
@@ -179,8 +180,8 @@ venv ou virtualenv para ambientes isolados;
 pyenv para gerenciar versões do Python;
 poetry ou hatch para projetos com pyproject.toml.
 
-Documentação do "uv": https://docs.astral.sh/uv/ <br>
-[Vídeo Hashtag Treinamentos sobre o "uv":](https://www.youtube.com/watch?v=zjN-6Z0ltkg&t=190s)
+[Documentação do "uv"](https://docs.astral.sh/uv/) <br>
+[Vídeo Hashtag Treinamentos sobre o "uv"](https://www.youtube.com/watch?v=zjN-6Z0ltkg&t=190s)
 
 
 ## 7. Etapas de um Projeto de BI.
