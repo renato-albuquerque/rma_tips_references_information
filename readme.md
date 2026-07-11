@@ -168,7 +168,22 @@ Obs.: Imagens abaixo sobre: Ambiente virtual .venv // Arquivo .env  // Arquivo .
 
 ![screenshot](/files/folders.png)
 
-## 6. Etapas de um Projeto de BI.
+## 6. Gerenciador de pacotes Python: "uv".
+Sobre o "uv", resumo: <br>
+- É um gerenciador de pacotes e projetos Python e vem se tornando o padrão moderno para desenvolvimento Python, substituindo um ecossistema fragmentado de ferramentas (pip, venv, pyenv, poetry, pip-tools) por uma solução única e extremamente rápida (uv).
+- A diferença mais imediata: o uv é 10 a 100× mais rápido que o pip. 
+- Substitui tudo de uma vez: 
+Antes do uv, um projeto Python típico precisava de:
+pip ou pip-tools para pacotes;
+venv ou virtualenv para ambientes isolados;
+pyenv para gerenciar versões do Python;
+poetry ou hatch para projetos com pyproject.toml.
+
+Documentação do "uv": https://docs.astral.sh/uv/ <br>
+[Vídeo Hashtag Treinamentos sobre o "uv":](https://www.youtube.com/watch?v=zjN-6Z0ltkg&t=190s)
+
+
+## 7. Etapas de um Projeto de BI.
 [Live Rafael Arruda, explicação no tempo 08min:40s](https://www.youtube.com/watch?v=s44ogfuSBbw&t=694s)
 
 1) Levantamento de requisitos. <br>
@@ -189,7 +204,7 @@ Registro das regras de negócio, transformações aplicadas e fluxos de dados ut
 6) Criação do Dashboard. <br>
 Desenvolvimento das visualizações (gráficos, tabelas, KPIs) para apresentar os dados de forma clara e interativa. Ferramentas como Power BI, Tableau ou Looker são comuns nessa etapa. <br>
 
-## 7. Configuração ambiente de desenvolvimento Python.
+## 8. Configuração ambiente de desenvolvimento Python.
 Tutorial de como configurar um ambiente de desenvolvimento Python com foco no mercado de trabalho. <br>
 Passo a passo para criar projetos do Zero de forma profissional. <br>
 **Referência: Luciano Vasconcelos, Jornada de Dados.** <br>
@@ -197,7 +212,7 @@ Passo a passo para criar projetos do Zero de forma profissional. <br>
 [Vídeo 01, setup Python, VSCode, Git e Github](https://www.youtube.com/watch?v=-M4pMd2yQOM) <br>
 [Vídeo 02, setup Pyenv, PIP, VENV, PIPX e Poetry](https://www.youtube.com/watch?v=9LYqtLuD7z4)
 
-## 8. Jupyter Notebook, extensão VS Code
+## 9. Jupyter Notebook, extensão VS Code
 Como utilizar o Jupyter Notebook no VS Code: <br>
 Nas extensões do VS Code, pesquisar e instalar: Jupyter (Microsoft). <br>
 Exemplo de arquivos jupyter notebook: main.ipynb <br>
@@ -212,7 +227,7 @@ Ele oferece: <br>
 <br>
 É muito usado em análise de dados, ciência de dados, machine learning e educação, pois facilita a combinação de explicações teóricas com código prático no mesmo lugar. <br>
 
-## 9. Autosave no VS Code.
+## 10. Autosave no VS Code.
 O Auto Save é um recurso que salva automaticamente as alterações feitas nos arquivos, sem precisar usar Ctrl+S. <br>
 
 **Passos:** <br>
